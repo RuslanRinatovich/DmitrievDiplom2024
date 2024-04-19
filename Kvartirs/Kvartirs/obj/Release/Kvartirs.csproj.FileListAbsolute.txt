@@ -1,0 +1,21 @@
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\bin\Release\BukmakerOK.exe.config
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.csproj.ResolveComReference.cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\bin\Release\BukmakerOK.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\bin\Release\BukmakerOK.pdb
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.AllFlats.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.AllBuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.BuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.CustomerForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.FlatForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.MaterialForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.RoomsFlat.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.StartForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.MainForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\BukmakerOK.Properties.Resources.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.csproj.GenerateResource.Cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\BukmakerOK.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Креков 155\Креков 155\Kvartirs\Kvartirs\obj\Release\BukmakerOK.pdb
+z:\ДИПЛОМ 2024\Дмитриев\Kvartirs\Kvartirs\obj\Release\Kvartirs.csproj.AssemblyReference.cache
+z:\ДИПЛОМ 2024\Дмитриев\Kvartirs\Kvartirs\obj\Release\Kvartirs.csproj.ResolveComReference.cache
+z:\ДИПЛОМ 2024\Дмитриев\Kvartirs\Kvartirs\obj\Release\BukmakerOK.exe
+z:\ДИПЛОМ 2024\Дмитриев\Kvartirs\Kvartirs\obj\Release\BukmakerOK.pdb
